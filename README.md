@@ -1,13 +1,12 @@
-# Basic Project Project 
+#Classes Project 
 
-*Using Java Basic Concepts* Day 04
+*Maven Project which Concentrates on Classes* Day 07
 
 **Java 7**
 
-* Scanner
-* String
-* Primitives
-* Switch
-* If/Else
+* Java Application
+* Maven
+* JUnits
+
 
 [James Hamilton] (jameshamilton9878@comcast.net)
